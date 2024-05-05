@@ -11,6 +11,18 @@
 ![s3](https://github.com/faizan15-shad/MyCalculator/assets/111855142/02c1e115-6916-40a6-86ea-37cf2e517715)
 ![s5](https://github.com/faizan15-shad/MyCalculator/assets/111855142/abfe8a80-0492-4311-adfc-064919818a6c)
 
+#activity_main.xml
+![s4](https://github.com/faizan15-shad/MyCalculator/assets/111855142/4d283a79-e990-4d9b-8b97-bc3664fd1b27)
+
+#AndroidManifest.xml
+
+![s10](https://github.com/faizan15-shad/MyCalculator/assets/111855142/1178ffe3-dac5-4acb-b087-c88d7cb19059)
+
+#Calculator
+
+![s4](https://github.com/faizan15-shad/MyCalculator/assets/111855142/baed62c1-ca38-480b-9b2f-b5e7b8e73063)
+
+
 # Technology Used
 the following technologies were used to build this calculater app:
 * Java
